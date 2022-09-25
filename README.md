@@ -1,6 +1,15 @@
 ![img](https://www.zeljkovic.sh/wp-content/uploads/2022/02/1_QOx_tPV5wJnhTzAGhfIiLA.png)
 # Getting started with Postman
 
+What is Postman?
+
+[Postman](https://www.postman.com/) is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+
+**Installing with pip**
+```
+pip install flask
+```
+
 ![img](https://github.com/Metallurgist/Getting-started-with-Postman/blob/master/Pics/LrzChjWonW.png)
 
 Calling a function by its route
